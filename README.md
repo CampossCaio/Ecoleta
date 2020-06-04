@@ -39,10 +39,10 @@ Essa é a aplicação Ecoleta, que é um marketplace fictício para conectar emp
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/ecoleta
+  $ git clone https://github.com/CampossCaio/Ecoleta
 
   # Entrar no diretório:
-  $ cd ecoleta
+  $ cd Ecoleta
 ```
 
 ## :gear: Iniciando back-end
