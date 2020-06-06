@@ -48,7 +48,7 @@ Essa é a aplicação Ecoleta, que é um marketplace fictício para conectar emp
 ## :gear: Iniciando back-end
 ```bash
   # Entrar no diretório do back-end:
-  $ cd server
+  $ cd backend
 
   # Instalar as dependências:
   $ yarn
@@ -84,7 +84,7 @@ Essa é a aplicação Ecoleta, que é um marketplace fictício para conectar emp
   $ yarn
 
   # Rodar a aplicação:
-  $ yarn ios ou yarn android 
+  $ yarn start ou npm start 
 ```
 
 Feito com ❤️ por **Caio Campos** 👋🏻 [Get in touch!](https://github.com/CampossCaio)
