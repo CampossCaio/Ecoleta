@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Ecoleta" src="https://res.cloudinary.com/matheuspires/image/upload/v1591193429/ecoleta_cstwor.gif" widht="100px" />
+    <img alt="Ecoleta" src="https://res.cloudinary.com/dgugs5dpz/image/upload/v1591484480/Ecoleta-Web.gif" widht="100px"/>
 </h1>
 <h1 align="center">
     <img alt="Ecoleta" src="https://res.cloudinary.com/dgugs5dpz/image/upload/v1591487084/Ecoleta-mobile.gif"height=500px />
